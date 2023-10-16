@@ -4,7 +4,8 @@
 
 The Password Filter Application is a Python Tkinter-based utility that allows you to filter a list of passwords according to specific criteria. It checks the passwords in a text file and filters out those that do not meet the criteria. This application is useful for managing password lists and ensuring they meet certain security standards.
 
-![Password Filter Application](screenshot.png)
+![Password Filter Application](![Uploading image.png…]()
+)
 
 ## Features
 
